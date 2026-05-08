@@ -70,7 +70,7 @@ const Resturent = () => {
         </div>
 
         <div className='box'>
-          <img src='https://culinasydney.com.au/wp-content/uploads/2020/02/18-12_mensenumfrage.jpg' />
+          <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgLxsBOebANBVxnpGbPZrqr9RFkyhHmMf_dA&s' />
           <h3>William</h3>
           <p>This Resturent is very Delicious</p>
         </div>
@@ -95,8 +95,8 @@ const Resturent = () => {
         </div>
 
         <div className='menubox'>
-          <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Pizza-3007395.jpg/1200px-Pizza-3007395.jpg' />
-          <h2 style={{ marginTop: "-6px" }}>Pizza</h2>
+          <img src='https://plus.unsplash.com/premium_photo-1670740967011-86730910a2e5?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudCUyMGZvb2R8ZW58MHx8MHx8fDA%3D' />
+          <h2 style={{ marginTop: "-6px" }}>Fast Food</h2>
           <button>Order</button>
         </div>
 
@@ -111,19 +111,19 @@ const Resturent = () => {
 
         <div className='secondpics'>
           <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL7T6rB5grJqxnQJSwCUfxMKiwaThZvOp6Kg&s' />
-          <h2>Fried Chicken</h2>
+          <h2>Leg Pieces</h2>
           <button>Order</button>
         </div>
 
         <div className='secondpics'>
           <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSW_kJx48BME6TWDKN2eygAq_vRaST7yVQ6Qc-K39W6Ae6soKlqvNBpggEKyYZL_vRA60&usqp=CAU' />
-          <h2>Fried Chicken</h2>
+          <h2>Fried Fish</h2>
           <button>Order</button>
         </div>
 
         <div className='secondpics'>
           <img src='https://i.pinimg.com/736x/4c/81/07/4c81076658eee03e7f532f3104b636f5.jpg' />
-          <h2>Fried Chicken</h2>
+          <h2>Karahi</h2>
           <button>Order</button>
         </div>
 
